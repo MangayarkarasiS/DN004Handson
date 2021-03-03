@@ -1,0 +1,7 @@
+C:\Users\Mangai\source\repos\Abstract_Csharp\Abstract_Csharp\obj\Debug\Abstract_Csharp.csprojAssemblyReference.cache
+C:\Users\Mangai\source\repos\Abstract_Csharp\Abstract_Csharp\obj\Debug\Abstract_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Mangai\source\repos\Abstract_Csharp\Abstract_Csharp\bin\Debug\Abstract_Csharp.exe.config
+C:\Users\Mangai\source\repos\Abstract_Csharp\Abstract_Csharp\bin\Debug\Abstract_Csharp.exe
+C:\Users\Mangai\source\repos\Abstract_Csharp\Abstract_Csharp\bin\Debug\Abstract_Csharp.pdb
+C:\Users\Mangai\source\repos\Abstract_Csharp\Abstract_Csharp\obj\Debug\Abstract_Csharp.exe
+C:\Users\Mangai\source\repos\Abstract_Csharp\Abstract_Csharp\obj\Debug\Abstract_Csharp.pdb
